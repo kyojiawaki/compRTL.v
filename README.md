@@ -33,3 +33,7 @@ VivadoでCPUを作成
 7. 乗算器(mult.v)
 * 機能
   * 8ビットの入力a、bを乗算し、結果を16ビットのxに出力する乗算器である
+8. ALU(alu.v)
+* 機能
+  * 入力はopcodeに従ってaccumとdataを演算し、alu_outに出力するALUである
+  * ALUは、Arithmetic Logic Unit(算術演算ユニット)のことである
