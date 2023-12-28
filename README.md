@@ -79,3 +79,4 @@ VivadoでCPUを作成
   * クロックclkの立ち上がりエッジに同期して、ロードldが1であればqにdを出力する
   * クロックclkの立ち上がりエッジに同期して、ciが1であれば、qを1カウントアップする
   * ciが1で、qのビットがすべて1であれば、coを1とする
+![image](https://github.com/kyojiawaki/cpu.v/assets/130772825/2929a97a-31b3-4664-abdc-91c2742b04b6)
