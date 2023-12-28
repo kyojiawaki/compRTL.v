@@ -1,4 +1,4 @@
-# cpu.v
+# RTL部品作成
 VivadoでCPUを作成
 
 ## 1. 組み合わせ回路のRTL部品
