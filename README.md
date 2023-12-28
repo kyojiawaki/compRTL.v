@@ -57,3 +57,4 @@ VivadoでCPUを作成
   * リセットrstが0のときqを0とする(非同期リセットする)
   * クロックclkの立ち上がりエッジに同期して、リセットrstが1のときdの値をqに出力する
   * 同期リセット付きレジスタのタイミング図を以下に示す
+![image](https://github.com/kyojiawaki/cpu.v/assets/130772825/88f7d9fb-2f10-49ed-aa22-a424e65178c6)
