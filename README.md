@@ -1,5 +1,5 @@
 # RTL部品作成
-VivadoでCPUを作成
+VivadoでCPUを作成したかった 
 
 ## 1. 組み合わせ回路のRTL部品
 1. デコーダ(dec.v)
