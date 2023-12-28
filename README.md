@@ -71,3 +71,4 @@ VivadoでCPUを作成
    * このとき、最下位ビットはsiとする
    * soはqの最下位ビットq[7]である
    * シフトレジスタの動作タイミングは以下に示す
+![image](https://github.com/kyojiawaki/cpu.v/assets/130772825/f58c63f6-b01c-4362-9fa8-b23d2992cf19)
